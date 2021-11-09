@@ -1,0 +1,4 @@
+﻿  Turnurile din Hanoi with Div. et Imp.cpp
+I:\TEME FACULTATE\Visual Studio LABORATOARE SALVATE\Metode avansate de programare (SEM + LAB)\Turnurile din Hanoi with Div. et Imp\Turnurile din Hanoi with Div. et Imp\Turnurile din Hanoi with Div. et Imp.cpp(19,39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Turnurile din Hanoi with Div. et Imp.vcxproj -> I:\TEME FACULTATE\Visual Studio LABORATOARE SALVATE\Metode avansate de programare (SEM + LAB)\Turnurile din Hanoi with Div. et Imp\Debug\Turnurile din Hanoi with Div. et Imp.exe
